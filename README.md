@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kensparby/fem-single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://kensparby-fem-single-price-component.netlify.app/)
+- Solution URL: [https://github.com/kensparby/fem-single-price-grid-component](https://github.com/kensparby/fem-single-price-grid-component)
+- Live Site URL: [https://kensparby-fem-single-price-component.netlify.app/](https://kensparby-fem-single-price-component.netlify.app/)
 
 ### Built with
 
